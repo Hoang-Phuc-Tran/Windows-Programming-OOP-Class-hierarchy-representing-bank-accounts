@@ -1,0 +1,8 @@
+D:\SET_lvl3\PROG2121-Windows Programming\A01\obj\Debug\A01.csproj.AssemblyReference.cache
+D:\SET_lvl3\PROG2121-Windows Programming\A01\obj\Debug\A01.csproj.SuggestedBindingRedirects.cache
+D:\SET_lvl3\PROG2121-Windows Programming\A01\obj\Debug\A01.csproj.CoreCompileInputs.cache
+D:\SET_lvl3\PROG2121-Windows Programming\A01\bin\Debug\A01.exe.config
+D:\SET_lvl3\PROG2121-Windows Programming\A01\bin\Debug\A01.exe
+D:\SET_lvl3\PROG2121-Windows Programming\A01\bin\Debug\A01.pdb
+D:\SET_lvl3\PROG2121-Windows Programming\A01\obj\Debug\A01.exe
+D:\SET_lvl3\PROG2121-Windows Programming\A01\obj\Debug\A01.pdb
